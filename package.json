@@ -1,0 +1,24 @@
+{
+  "name": "node-express-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debabrata-dd/node-express-mongo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debabrata-dd/node-express-mongo/issues"
+  },
+  "homepage": "https://github.com/debabrata-dd/node-express-mongo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
